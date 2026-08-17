@@ -22,19 +22,18 @@ Programming Instructor & Python Backend Developer. I design async web services, 
 
 ### 🚀 Featured Project
 
-* **[Workshop Sharing Hub](https://github.com/Apparcane/WorkshopSharingHub)** — REST API service built with FastAPI for publishing and managing educational workshops. Features GitHub API integration, JWT authentication, and async PostgreSQL database management.
+* **[Workshop Sharing Hub](https://github.com/Apparcane/RobocodeMasterClass)** — REST API service built with FastAPI for publishing and managing educational workshops. Features GitHub API integration, JWT authentication, and async PostgreSQL database management.
 
 ---
 
 ### 📊 GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Apparcane&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Apparcane GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Apparcane&layout=compact&theme=dark&hide_border=true" alt="Top Languages" height="165"/>
-</p>
+![Apparcane GitHub Stats](https://github-readme-stats.vercel.app/api?username=Apparcane&show_icons=true&theme=dark&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Apparcane&layout=compact&theme=dark&hide_border=true)
 
 ---
 
 ### 📬 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/apparcane/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danylo-lysenkovskiy/)
